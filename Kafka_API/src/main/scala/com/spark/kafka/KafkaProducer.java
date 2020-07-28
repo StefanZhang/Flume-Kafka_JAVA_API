@@ -44,8 +44,4 @@ public class KafkaProducer extends Thread{
 
     }
 
-
-
-
-
 }

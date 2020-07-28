@@ -1,9 +1,5 @@
 package com.spark.kafka;
 
-/**
- * Kafka properties
- */
-
 public class KafkaProperties {
 
     public static final String ZK = "192.168.100.128:2181";
