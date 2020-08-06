@@ -18,3 +18,8 @@
     FileWordCount: WC with file system
 
     NetworkWordCount: WC with socket
+    
+    StateWordCount: WC with previous counts/states
+    
+    ForeachRDDApp: WC with results saved in MySQL(local)
+
