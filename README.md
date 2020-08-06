@@ -13,3 +13,8 @@
 
     Check Kafka topic:
     kafka-topics.sh --list --zookeeper hadoop:2181
+2. Spark-Streaming: 
+
+    FileWordCount: WC with file system
+
+    NetworkWordCount: WC with socket
