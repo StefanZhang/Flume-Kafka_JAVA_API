@@ -13,7 +13,7 @@
 
     Check Kafka topic:
     kafka-topics.sh --list --zookeeper hadoop:2181
-2. Spark-Streaming: 
+2. Spark-Streaming: WC experiments using SCALA
 
     FileWordCount: WC with file system
 
