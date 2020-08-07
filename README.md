@@ -22,4 +22,6 @@
     StateWordCount: WC with previous counts/states
     
     ForeachRDDApp: WC with results saved in MySQL(local)
+    
+    FilterApp: Filter logs that's on a given black list.
 
