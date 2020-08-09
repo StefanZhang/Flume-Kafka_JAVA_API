@@ -24,4 +24,6 @@
     ForeachRDDApp: WC with results saved in MySQL(local)
     
     FilterApp: Filter logs that's on a given black list.
+    
+    Flume_push_WordCount: WC using Flume + Spark Streaming with Push method
 
