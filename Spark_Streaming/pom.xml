@@ -67,6 +67,13 @@
       <version>2.6.5</version>
     </dependency>
 
+    <dependency>
+      <groupId>org.apache.spark</groupId>
+      <artifactId>spark-streaming-flume_2.11</artifactId>
+      <version>${spark.version}</version>
+    </dependency>
+
+
     <!-- net.jpountz.util.SafeUtils not found-->
     <dependency>
       <groupId>net.jpountz.lz4</groupId>
