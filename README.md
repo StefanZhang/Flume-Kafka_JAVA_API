@@ -26,4 +26,6 @@
     FilterApp: Filter logs that's on a given black list.
     
     Flume_push_WordCount: WC using Flume + Spark Streaming with Push method, test on both local and server.
+    
+    Flume_pull_WordCount: WC using Flume + Spark Streaming with Pull method, test on both local and server.
 
