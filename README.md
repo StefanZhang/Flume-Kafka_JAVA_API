@@ -29,3 +29,4 @@
     
     Flume_pull_WordCount: WC using Flume + Spark Streaming with Pull method, test on both local and server.
 
+    KafkaRecieverWordCount: WC using Kafka + Spark Streaming Reciever method, test on both local and server.
